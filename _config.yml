@@ -1,0 +1,62 @@
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: Altered Reality
+layout_spectrum: 0.43481516162864864
+typography_spectrum: 0.78205337212421
+color:
+  brandStrength: 0.3631487612146884
+  lightness: 0.7000501498114318
+  saturation: 0.870238667819649
+  rhythmicContrast: 0.33129638037644327
+  brandColors:
+    - '#000000'
+    - '#25495F'
+    - '#4383A7'
+    - '#5EB5E6'
+    - '#85F1FD'
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c9edc036-7787-4660-8220-2742203dc228.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/c9edc036-7787-4660-8220-2742203dc228.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+title: Altered Reality
+description: 'Metaphysical, New Age, Books and more!'
+purpose:
+  - type: contact
+    url: 'tel:7052687199'
+    label: Call (705) 268 7199
+  - type: external
+    url: 'https://www.facebook.com/myalteredreality/'
+    label: Visit us on Facebook
+github: true
+content_rating:
+  adult: false
+author:
+  name: Altered Reality
+  email: shop@alteredreality.me
+  url: 'http://www.alteredreality.me'
